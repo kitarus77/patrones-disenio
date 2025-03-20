@@ -1,7 +1,4 @@
 # Changelog
-Todas las modificaciones significativas de este microservicio se documentan en este archivo.
-
----
 
 ## [v1.0.0] - 2025-03-13
 ### ✨ Agregado
